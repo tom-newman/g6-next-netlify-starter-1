@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import React, { useEffect, useRef } from 'react';
+import { Graph } from '@antv/g6';
 
 export default function Home() {
   return (
