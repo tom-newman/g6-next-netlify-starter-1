@@ -8,6 +8,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "@antv/g6": "^4.8.23",
     "cypress": "^13.4.0",
     "next": "^14.0.1",
     "react": "^18.2.0",
