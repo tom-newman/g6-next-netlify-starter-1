@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import React, { useEffect, useRef } from 'react';
 
 export default function Home() {
   return (
